@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ccxt": "^4.0.57",
+    "ethers": "^5.4"
+  }
+}
